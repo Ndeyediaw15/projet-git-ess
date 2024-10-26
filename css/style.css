@@ -34,7 +34,7 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(/image/m1.avif);
+    background-image: url(../image/m1.avif);
     background-repeat: no-repeat;
     background-size: cover;
 }
